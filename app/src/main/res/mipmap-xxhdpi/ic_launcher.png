@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="378764b3-2b33-49ac-abf5-d23e16de8b52" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_27" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="64" lean-forward="true" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jito/tareaud4/RegistroActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+              <folding>
+                <element signature="method#onSupportNavigateUp#0;class#RegistroActivity#0" />
+                <element signature="method#ClickRexistro#0;class#RegistroActivity#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_registro.xml">
+          <provider selected="true" editor-type-id="android-designer2" />
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="2414">
+              <caret line="142" column="20" selection-start-line="142" selection-start-column="20" selection-end-line="142" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jito/tareaud4/MenuActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+              <folding>
+                <element signature="method#onCreateOptionsMenu#0;class#MenuActivity#0" />
+                <element signature="method#onOptionsItemSelected#0;class#MenuActivity#0" />
+                <element signature="method#onSupportNavigateUp#0;class#MenuActivity#0" />
+                <element signature="method#verPedidos#0;class#MenuActivity#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jito/tareaud4/MenuActivityAdmin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-68">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+              <folding>
+                <element signature="method#onCreateOptionsMenu#0;class#MenuActivityAdmin#0" />
+                <element signature="method#onOptionsItemSelected#0;class#MenuActivityAdmin#0" />
+                <element signature="method#onSupportNavigateUp#0;class#MenuActivityAdmin#0" />
+                <element signature="method#verPedidosAceptados#0;class#MenuActivityAdmin#0" />
+                <element signature="method#clickverRechazadosMenu#0;class#MenuActivityAdmin#0" />
+                <element signature="method#clickveracAptadossMenu#0;class#MenuActivityAdmin#0" />
+                <element signature="method#clickverPedidoMenu#0;class#MenuActivityAdmin#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tiendaud3</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>tareaud4</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\jit\Desktop\Moviles\UD4\TareaUd4\app\src\main\java\com\jito\tiendaud3</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/jito/tiendaud3/Direccion_Activity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/jito/tareaud4/VerPedidosActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/jito/tareaud4/Direccion_Activity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/jito/tareaud4/MenuActivityAdmin.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_registro.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/jito/tareaud4/MenuActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/jito/tareaud4/RegistroActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <o
